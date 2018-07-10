@@ -1,0 +1,16 @@
+{
+  "name": "food-rest",
+  "version": "1.0.0",
+  "description": "workshop css4 in monoku",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@jgalianoz -- Manuel Galindez / Monoku",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^8.6.5",
+    "postcss-cli": "^5.0.1",
+    "postcss-cssnext": "^3.1.0"
+  }
+}
